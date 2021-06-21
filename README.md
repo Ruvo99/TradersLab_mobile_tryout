@@ -1,6 +1,6 @@
-# traders_lab_mobile
+# TRADERS LAB Mobile App 
 
-A new Flutter project.
+A new Flutter project to test connectivity with Backend project (https://github.com/Ruvo99/TradersLab_backend_tryout)
 
 ## Getting Started
 
